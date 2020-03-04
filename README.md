@@ -9,20 +9,11 @@ For Experiments design, `pandas`, `numpy`, `scipy`, `matplotlib.pyplot` packages
 
 For Data Analysis, `pandas`, `numpy`, `scipy`, `matplotlib.pyplot` and `sklearn` packages are required.
 
-#### Install packages
 
-Personally, I recommend to use anaconda which is easy to manage the packages.
-* [anaconda free download link](https://www.anaconda.com/distribution/#download-section)
-
-After installing anaconda, you can easily install python packages in terminal. 
-```
-conda install package_name
-```
 ### General guidance
+Pricing strategy analysis is my analysis on the results of an AB testing.
 
-For Data Manipulation, there are practices about rewriting SQL queries in python, data manipulation using pandas and data manipulation using numpy.
-
-For Data Visualization, there are practices about visualization using `matplotlib.pyplt` and `seaborn`.
+User funnerl analysis is my analysis on user's conversion through a funnel.
 
 ## Authors
 
