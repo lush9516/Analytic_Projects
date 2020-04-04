@@ -1,5 +1,5 @@
 # Analytic_Projects
-This is a record of my analytical projects including Experiments design(A/B testing), data analysis, etc.
+This is a record of my analytical projects including user funnel analysis, COVID-19 trends analysis and analysis on the A/B testing results,etc.
 
 ## Getting Started
 
