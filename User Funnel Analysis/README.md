@@ -1,6 +1,5 @@
 
 # User Funnel Analysis
-This is a record of my analytical projects including user funnel analysis, COVID-19 trends analysis and analysis on the A/B testing results,etc.
 
 ## General Introduction
 This analysis is to evaluate the conversion rate for users in different stages and generate reasonable strategies to help the company increase the conversion rate and their revenue.
@@ -8,6 +7,8 @@ This analysis is to evaluate the conversion rate for users in different stages a
 First, I have aggregated all data into one table then calculate and analyze the conversion rate from a general level. 
 
 Second, I applied K-means to divide all users into three clusters and conduct analysis on conversion rate for each cluster. My analysis has revealed the difference between different clusters, proposed possible reasons for those difference and come up with corresponding strategies for different clusters.
+
+Technologies used: Clustering, Visualization, Data Manipulation, etc.
 
 ## General Analysis
 
