@@ -1,5 +1,3 @@
-
-
 # Pricing Strategy for A/B Testing
 
 ## General Introduction
@@ -14,9 +12,6 @@ Through the above analysis, I have found out that for different segementations o
 
 ## Analysis Results
 The conversion rate for purchase in control group is 1.9% while it's 1.5% in test group. But when taking price into consideration, the test group can actually generate more revenue (17% higher than control group)
-
-
-## Recommendations and Insights
 
 
 ## Authors
