@@ -8,11 +8,7 @@ It mainly includes the several parts:
 3) Analysis on comparison between COVID-19 trend in U.S. Italy and China.
 
 ## Analysis on General Trends in US
-First, I have conduct some analysi on the user's profiles to see that whether they are randomly assigned and comparable between control and experiment groups.
 
-Then I have broken down all the users in to different segementations, such as by operative system, source and location, etc.
-
-Through the above analysis, I have found out that for different segementations of users, their sensitiviti to price is different. And I've made proper recommendations based on the findings.
 
 ## Comparison between New York and Wuhan
 
