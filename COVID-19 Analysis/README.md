@@ -19,7 +19,7 @@ In the most recent days, new confirmed cases for each day in Italy almost stays 
 
 This also holds true for new deaths cases, for Italy it stays around 750 while this number in US keep increasing from almost 0 to 2000 without any signs of stoping or even stabling.
 
-![Deaths Cases in Italy and US](https://github.com/lush9516/Analytic_Projects/tree/master/COVID-19%20Analysis/New_Deaths_Cases_for_Italy_US.png?raw=true)
+![Deaths Cases in Italy and US](https://github.com/lush9516/Analytic_Projects/blob/master/COVID-19%20Analysis/New_Deaths_Cases_for_Italy_US.png?raw=true)
 
 ## Authors
 
