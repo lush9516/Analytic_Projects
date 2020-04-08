@@ -3,12 +3,8 @@
 ## General Introduction
 This project is my analysis on the current COVID-19 analysis.
 It mainly includes the several parts:
-1) Analysis on the general trends in US.
-2) Analysis on comparison between COVID-19 trends in New York and Wu Han
-3) Analysis on comparison between COVID-19 trend in U.S. Italy and China.
-
-## Analysis on General Trends in US
-
+1) Compare the COVID-19 trends between  New York and Wu Han
+2) Compare the COVID-18 trends between U.S. Italy and China.
 
 ## Comparison between New York and Wuhan
 
