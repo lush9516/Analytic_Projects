@@ -11,8 +11,8 @@ I have built an automated pipeline to aggregate the latest data from [JHU CSSE d
 For further analysis, I choosed the data from the day that there is more than 100 confirmed cases (sign of begining of COVID-19 in this area).
 
 ## Comparison between New York and Hubei
-From my analysis, I have found out that the confirmed cases trends in NY is similar to the one in Wuhan.
-The issue is that, for Wuhan things have been under control quite fast under hitting the peak while the the incremental trends in NY still stays in a relative high level after hitting the peak.
+From my analysis, I have found out that the confirmed cases trends in NY is similar to the one in Hubei.
+The issue is that, for Hubei things have been under control quite fast under hitting the peak while the the incremental trends in NY still stays in a relative high level after hitting the peak.
 ![New Confirmed Cases in NY and Hubei](https://github.com/lush9516/Analytic_Projects/blob/master/COVID-19%20Analysis/New%20Confirmed%20Cases%20for%20NY%20and%20Hubei.png?raw=true)
 
 ## Comparison between US and Italy
