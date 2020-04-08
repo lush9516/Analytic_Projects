@@ -4,7 +4,7 @@
 This project is my analysis on the current COVID-19 analysis.
 It mainly includes the several parts:
 1) Compare the COVID-19 trends between  New York and Hubei
-2) Compare the COVID-18 trends between U.S and Italy.
+2) Compare the COVID-19 trends between U.S and Italy.
 
 ## Data Collection and Cleaning
 I have built an automated pipeline to aggregate the latest data from [JHU CSSE daily report](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports).
