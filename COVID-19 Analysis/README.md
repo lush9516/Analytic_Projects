@@ -17,7 +17,7 @@ The data we used for analysis are gathering from the following sources:
 
 * COVID-19 data: Built a pipeline to get and clean the latest data at state level from [CSSE daily report](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports).
 
-* Medical resource data: 1) Download state-level medicare disparity from [Data.Medicare-link2](https://data.cms.gov/mapping-medicare-disparities) and surgical quality from [Data.Medicare-link1](https://data.medicare.gov/Hospital-Compare/Ambulatory-Surgical-Center-Quality-Measures-State/axe7-s95e/data).2) Extract country-level health index data from [WHO](https://www.who.int/data/gho) through its API.3)Mannually scrap other information from [GHDx](http://ghdx.healthdata.org/record/ihme-data/gbd-2016-healthcare-access-and-quality-index-1990-2016)
+* Medical resource data: 1) Download state-level medicare disparity from [Data.Medicare-link2](https://data.cms.gov/mapping-medicare-disparities) and surgical quality from [Data.Medicare-link1](https://data.medicare.gov/Hospital-Compare/Ambulatory-Surgical-Center-Quality-Measures-State/axe7-s95e/data).  2) Extract country-level health index data from [WHO](https://www.who.int/data/gho) through its API.3)Mannually scrap other information from [GHDx](http://ghdx.healthdata.org/record/ihme-data/gbd-2016-healthcare-access-and-quality-index-1990-2016)
 
 * Aging data: Mannually scrap data from [census.gov](https://data.census.gov/cedsci/profile?q=California&g=0400000US06&tid=ACSDP1Y2018.DP05)
 
