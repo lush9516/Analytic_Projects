@@ -17,7 +17,7 @@ The data we used for analysis are gathering from the following sources:
 
 * COVID-19 data: Built a pipeline to get and clean the latest data at state level from [CSSE daily report](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports).
 
-* Medical resource data: 1) Download state-level medicare disparity and surgical quality from [Data.Medicare](https://data.medicare.gov/Hospital-Compare/Ambulatory-Surgical-Center-Quality-Measures-State/axe7-s95e/data).2) Extract country-level health index data from [WHO](https://www.who.int/data/gho) through its API.3)Mannually scrap other information from [GHDx](http://ghdx.healthdata.org/record/ihme-data/gbd-2016-healthcare-access-and-quality-index-1990-2016)
+* Medical resource data: 1) Download state-level medicare disparity from [Data.Medicare-link2](https://data.cms.gov/mapping-medicare-disparities) and surgical quality from [Data.Medicare-link1](https://data.medicare.gov/Hospital-Compare/Ambulatory-Surgical-Center-Quality-Measures-State/axe7-s95e/data).2) Extract country-level health index data from [WHO](https://www.who.int/data/gho) through its API.3)Mannually scrap other information from [GHDx](http://ghdx.healthdata.org/record/ihme-data/gbd-2016-healthcare-access-and-quality-index-1990-2016)
 
 * Aging data: Mannually scrap data from [census.gov](https://data.census.gov/cedsci/profile?q=California&g=0400000US06&tid=ACSDP1Y2018.DP05)
 
@@ -37,6 +37,9 @@ The first one contains all the indices and demographic information about states 
 The second one contains the latest COVID19 data,including confirmed, death, recovered cases, for each state in US.
 
 ## Data Visualizations
+### COVID-19 Overview in US
+![COVID-19 situations in US](https://github.com/lush9516/Analytic_Projects/blob/master/COVID-19%20Analysis/US_case_visualization.png?raw=true)
+From the above graphs, we can see that the COVID-19 situations is most serious in California in west coase and in New York in east coast. So we have picked these two states for deeper visualizations and analysis.
 ### COVID-19 trends in California and New York
 ![COVID-19 trends in CA and NY](https://github.com/lush9516/COVID-19-Analysis/blob/master/COVID-19-trends-for-NY-and-CA.png?raw=true)
 As we can see from the above graph, CA starts social distancing before things get worse and the new confirmed cases stay at a stable level while NY didn't start social distancing until there are quite a lot confirmed cases, which results in a different situations compared to CA.
