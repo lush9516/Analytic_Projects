@@ -9,7 +9,7 @@ After preparing the data, we conducted some basic visualizations on the data and
 
 To further verify our findings from a more comprehensive perspective, we bulit linear regression model to quantitatively measure these factors' impact on infection and death rates.
 
-In the end, we reach the conclusion that social distancing, education level, aging level in one area may have great impact on the spread of COVID-19 virus and made corresponding recommendations based on the results.
+In the end, we reach the conclusion that gathering ban, education level, aging level in one area may have great impact on the spread of COVID-19 virus and made corresponding recommendations based on the results.
 
 ## Data Preparation
 ### Data Source
@@ -50,9 +50,9 @@ Our team has built two linear regression models to predict infection rate and de
 The independent variables for both models are standarized index about education, medical resource, public transportation, social distancing, aging and population density.
 ### Modeling results
 ![Model Features Coefficients and P-value](https://github.com/lush9516/COVID-19-Analysis/blob/master/model_feature_coef.png?raw=true)
-From the model results, we have identified three factors, aging index, social distancing and education level, that have relatively high coefficient and are statically significant.
+From the model results, we have identified three factors, aging index, gathering ban(one index for social distancing) and education level, that have relatively high coefficient and are statically significant.
 ## Recommendations and Insights
-Our team found that stricter social distancing policy would effectively lower the infection rate especially in the early stage when the virus is not eidely spread. Meanwhile, the more population is occupied by elder people, the higher the infection rate will be. This is reasonable because it is proved that old people are more likely to be infected.
+Our team found that stricter gathering ban policy would effectively lower the infection rate especially in the early stage when the virus is not eidely spread. Meanwhile, the more population is occupied by elder people, the higher the infection rate will be. This is reasonable because it is proved that old people are more likely to be infected.
 
 Surprisingly, we also found that there's a strong correlation education level and infection rate. Regions with high education level tend to have lower infection rate.
 
