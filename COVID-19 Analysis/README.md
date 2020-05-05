@@ -60,5 +60,6 @@ Our team found that stricter gathering ban policy would effectively lower the in
 Surprisingly, we also found that there's a strong correlation education level and infection rate. Regions with high education level tend to have lower infection rate.
 
 Thus, we recommend that countries or regions where the pandemic is not particularly serious should also release stricter policy about social gathering. Besides, they should also pay more attention to regions with lower education level and give more resources to regions with more elders.
+## Authors
 
 **Shuhan(Han) Lu, [Yuting Li](https://github.com/tingli-ucd), [Jiaxue Wan](https://github.com/jiaxuewan98), [Qimeng Gu](https://github.com/Mandy-Gu)** - [LinkedIn page](https://www.linkedin.com/in/shuhan-lu/) - [Medium page](https://medium.com/@lushuhan95)
