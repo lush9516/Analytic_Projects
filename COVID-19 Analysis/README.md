@@ -38,8 +38,7 @@ The second one contains the latest COVID19 data,including confirmed, death, reco
 
 ## Data Visualizations
 ### COVID-19 Overview in US
-![COVID-19 situations in US](https://github.com/lush9516/Analytic_Projects/blob/master/COVID-19%20Analysis/US_case_visualization.png?raw=true)
-From the above graphs, we can see that the COVID-19 situations is most serious in California in west coase and in New York in east coast. So we have picked these two states for deeper visualizations and analysis.
+The COVID-19 situations is most serious in California in west coase and in New York in east coast. So we have picked these two states for deeper visualizations and analysis.
 ### COVID-19 trends in California and New York
 ![COVID-19 trends in CA and NY](https://github.com/lush9516/COVID-19-Analysis/blob/master/COVID-19-trends-for-NY-and-CA.png?raw=true)
 As we can see from the above graph, CA starts social distancing before things get worse and the new confirmed cases stay at a stable level while NY didn't start social distancing until there are quite a lot confirmed cases, which results in a different situations compared to CA.
