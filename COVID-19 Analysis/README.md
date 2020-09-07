@@ -11,6 +11,8 @@ To further verify our findings from a more comprehensive perspective, we bulit l
 
 In the end, we reach the conclusion that gathering ban, education level, aging level in one area may have great impact on the spread of COVID-19 virus and made corresponding recommendations based on the results.
 
+Out team has posted a [blog](https://towardsdatascience.com/feature-engineering-and-integration-of-covid-19-panel-data-f97aaabc8017) about our analytics and findings on Towards Data Science.
+
 ## Data Preparation
 ### Data Source
 The data we used for analysis are gathering from the following sources:
